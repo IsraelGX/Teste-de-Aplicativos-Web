@@ -1,7 +1,6 @@
-# Bootcamp Tripleten 
-   ## Analista de QA - *Sprint 3*
 
-   ### Teste de Aplicativos Web
+
+   # Teste de Aplicativos Web
 
 #### Introdução ao teste de aplicativos web
 - *Como um aplicativo web funciona: introdução*
@@ -54,6 +53,13 @@
 - Casos de testes para o botão 
 - Casos de teste para locação
 
+### Como Executar o Projeto
+
+- *Clone o repositório do projeto.*
+- *Navegue até o diretório do projeto e abra seu editor de código favorito.*
+- *Execute os testes conforme os checklists criados e registre os resultados.*
+
+### Obs: Para acessar a documentação da API e realizar os testes é necessário ter acesso ao servidor não disponível nesse momento.
 
 ## Conclusão
 
